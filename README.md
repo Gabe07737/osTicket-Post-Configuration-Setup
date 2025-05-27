@@ -154,10 +154,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
   <img src="https://github.com/user-attachments/assets/5e3a6d6c-1db8-40c3-ada8-04a9761ee25e" height="75%" width="100%" alt="sev one"/>
-  <img src="https://github.com/user-attachments/assets/4cab1ead-2c0a-4086-939c-136b9d36aa45" height="75%" width="100%" alt="sev two"/>
-  <img src="https://github.com/user-attachments/assets/77456fa2-1cf2-4a58-9357-4841fd6b9490" height="75%" width="100%" alt="sev three"/>
-  <img src="https://github.com/user-attachments/assets/516c8ddf-ae57-4d98-a6f2-2b7ffd6d99a8" height="75%" width="100%" alt="sev one"/>
-  <img src="https://github.com/user-attachments/assets/2a2695a0-eb99-4711-8abd-f6e49bbdcd9b" height="75%" width="100%" alt="sev one"/>
+  <img src="https://github.com/user-attachments/assets/77456fa2-1cf2-4a58-9357-4841fd6b9490" height="75%" width="100%" alt="sev one"/>
+  <img src="https://github.com/user-attachments/assets/516c8ddf-ae57-4d98-a6f2-2b7ffd6d99a8" height="75%" width="100%" alt="sev two"/>
+  <img src="https://github.com/user-attachments/assets/2a2695a0-eb99-4711-8abd-f6e49bbdcd9b" height="75%" width="100%" alt="sev third"/>
 </p>
 <br />
 <br />
@@ -179,10 +178,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   Password Reset.
 </p>
 <p>
-  <img src="https://i.imgur.com/Xdhp63v.png" height="75%" width="100%" alt="business critical outage"/>
-  <img src="https://i.imgur.com/3Y7k2o1.png" height="75%" width="100%" alt="personal computer issues"/>
-  <img src="https://i.imgur.com/Z0eIGea.png" height="75%" width="100%" alt="equipment request"/>
-  <img src="https://i.imgur.com/ndOdtTZ.png" height="75%" width="100%" alt="password reset"/>
+  <img src="https://github.com/user-attachments/assets/cbc27c80-e64a-4b87-a25e-08e2bf02efcb" height="75%" width="100%" alt="business critical outage"/>
+  <img src="https://github.com/user-attachments/assets/f6ad5f9e-7d54-4258-8359-0af6a69454a2" height="75%" width="100%" alt="personal computer issues"/>
+  <img src="https://github.com/user-attachments/assets/103db4d0-e5af-4ed2-804c-7b874dc81c06" height="75%" width="100%" alt="equipment request"/>
+  <img src="https://github.com/user-attachments/assets/9864f2a2-41fa-40a7-98c3-2d55aae30161" height="75%" width="100%" alt="password reset"/>
+  <img src="https://github.com/user-attachments/assets/9e75e024-6027-4304-a899-9bb240a12921" height="75%" width="100%" alt="business critical outage"/>
 </p>
 <br />
 <br />
