@@ -45,14 +45,18 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img src="https://github.com/user-attachments/assets/31b2f561-be08-4193-b27e-a44031aa67bd" height="75%" width="100%" alt="Permissions"/>
   <img src="https://github.com/user-attachments/assets/b4077bf5-b3f3-4408-9af6-669215c3f048" height="75%" width="100%" alt="More Permissions"/>
   <img src="https://github.com/user-attachments/assets/b459b965-9668-4e89-b6d5-1dd7d8700566" height="75%" width="100%" alt="Even More Permissions"/>
+  <img src="https://github.com/user-attachments/assets/93255f7e-be12-4539-804c-c5dd1fa9b518" height="75%" width="100%" alt="Sys Admin Success"/>
 </p> 
 <p>
-  After that go to permissions and check everything for: tickets,tasks and knowlegde base
+  After that go to permissions and check everything for: tickets,tasks and knowledge base
 </p>
-  <img src="https://github.com/user-attachments/assets/93255f7e-be12-4539-804c-c5dd1fa9b518" height="75%" width="100%" alt="Sys Admin Success"/>
+<p>
+  Then go and click on "Add Role"
+</p>
   <img src="https://github.com/user-attachments/assets/0870b767-8265-4d26-afa3-1e2e859c396b" height="75%" width="100%" alt="Sys Admin Success"/>
   <img src="https://github.com/user-attachments/assets/c8068d0e-8e14-4acb-a8ec-695727e7e909" height="75%" width="100%" alt="Sys Admin Success"/>
-  <img src="https://github.com/user-attachments/assets/7c76d312-6868-4583-80fc-adbb5df885d4" height="75%" width="100%" alt="Sys Admin Success"/>
+  <img src="https://github.com/user-attachments/assets/95a48449-a584-4ad7-b43d-1b6790ef5c26" height="75%" width="100%" alt="Sys Admin Success"/>
+  <img src="https://github.com/user-attachments/assets/3db137c7-3fa3-4d29-8b18-c0bb23cf7075" height="75%" width="100%" alt="Sys Admin Success"/>
 <p>
 </p>
 <br />
