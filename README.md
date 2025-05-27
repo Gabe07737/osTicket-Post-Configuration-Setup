@@ -98,7 +98,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   Make sure "Require registration and login to create tickets" is not selected:
 </p>
 <p>
-  <img src="https://github.com/user-attachments/assets/53bb3eab-9310-4262-9130-eeef15fc7c02" height="75%" width="100%" alt="ticket creations"/>
+  <img src="https://github.com/user-attachments/assets/fcb24e22-166f-4763-b701-00e6eee88dc6" height="75%" width="100%" alt="ticket creations"/>
 </p>
 <br />
 <br />
@@ -112,6 +112,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
   <img src="https://github.com/user-attachments/assets/fbc52b82-37d0-4c26-9f13-dcdb2eccf97f" height="75%" width="100%" alt="agent one access"/>
   <img src="https://github.com/user-attachments/assets/52f54973-c51b-4448-88fe-9ec46f286022" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://github.com/user-attachments/assets/0fc6e232-f595-4e62-85b2-f702950ab82a" height="75%" width="100%" alt="agent one access"/>
   <img src="https://github.com/user-attachments/assets/002ba14d-ea53-4e23-9b35-8beb8c1bb935" height="75%" width="100%" alt="agent one access"/>
   <img src="https://github.com/user-attachments/assets/d52c7df7-5d19-45e7-89e1-725263556963" height="75%" width="100%" alt="agent one access"/>
 <p>
@@ -120,7 +121,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
   <img src="https://github.com/user-attachments/assets/c1680ad9-8c9d-419e-9cd1-691b9a6103cd" height="75%" width="100%" alt="agent two"/>
-  <img src="https://github.com/user-attachments/assets/12932b5b-34ad-49a7-9e66-ec59b1edd20e" height="75%" width="100%" alt="agent two access"/>
+  <img src="https://github.com/user-attachments/assets/42a63f1c-57ee-41e7-a856-59d1a67a941f" height="75%" width="100%" alt="agent two access"/>
 </p>
 <h3 align="center">Configure Users (customers)</h3>
 <br />
@@ -132,7 +133,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
   <img src="https://github.com/user-attachments/assets/bb48a83a-0e90-476d-b64b-155db3ca8c26" height="75%" width="100%" alt="user access"/>
   <img src="https://github.com/user-attachments/assets/bb6166f2-f791-4c52-8c5b-7bec64bf5658" height="75%" width="100%" alt="user access"/>
-  <img src="https://github.com/user-attachments/assets/fb2459da-d5ae-458d-9e16-40d80f598c32" height="75%" width="100%" alt="user access"/>
+  <img src="https://github.com/user-attachments/assets/f8c9e664-b8c2-4df8-ad47-d068e9c68565" height="75%" width="100%" alt="user access"/>
 <p>
   Repeat the same above for Ken User.
 </p>
