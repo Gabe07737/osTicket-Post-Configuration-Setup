@@ -69,8 +69,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   System Administrators:
 </p>
 <p>
-  <img src="https://i.imgur.com/83gWQsO.png" height="75%" width="100%" alt="System Administrators"/>
-  <img src="https://i.imgur.com/oGLXmQv.png" height="75%" width="100%" alt="System Administrators"/>
+  <img src="https://github.com/user-attachments/assets/e29262ad-c174-46a5-b13c-57034685735f" height="75%" width="100%" alt="System Administrators"/>
+  <img src="https://github.com/user-attachments/assets/5b9d25f5-d532-425a-8ac4-dd6a30fad4f7" height="75%" width="100%" alt="System Administrators"/>
 </p>
 <br />
 <br />
@@ -80,10 +80,12 @@ This tutorial outlines the post-install configuration of the open-source help de
   Admin Panel -> Agents -> Teams.
 </p>
 <p>
-  Level II Support:
+  Online Banking:
 </p>
 <p>
-  <img src="https://i.imgur.com/BnPrcDH.png" height="75%" width="100%" alt="Level II Support"/>
+  <img src="https://github.com/user-attachments/assets/94740ebf-7117-468d-9e73-00cf6ea64461" height="75%" width="100%" alt="Level II Support"/>
+  <img src="https://github.com/user-attachments/assets/1a4ea8b7-3e51-4890-8cb5-350a713eda55" height="75%" width="100%" alt="Level II Support"/>
+  
 </p>
 <br />
 <br />
@@ -96,7 +98,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   Make sure "Require registration and login to create tickets" is not selected:
 </p>
 <p>
-  <img src="https://i.imgur.com/QsJjOuM.png" height="75%" width="100%" alt="ticket creations"/>
+  <img src="https://github.com/user-attachments/assets/53bb3eab-9310-4262-9130-eeef15fc7c02" height="75%" width="100%" alt="ticket creations"/>
 </p>
 <br />
 <br />
@@ -108,7 +110,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   Jane Doe:
 </p>
-  <img src="https://i.imgur.com/ujpOdKM.png" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://github.com/user-attachments/assets/fbc52b82-37d0-4c26-9f13-dcdb2eccf97f" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://github.com/user-attachments/assets/52f54973-c51b-4448-88fe-9ec46f286022" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://github.com/user-attachments/assets/002ba14d-ea53-4e23-9b35-8beb8c1bb935" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://github.com/user-attachments/assets/d52c7df7-5d19-45e7-89e1-725263556963" height="75%" width="100%" alt="agent one access"/>
+<p>
 <p>
   John Doe:
 </p>
