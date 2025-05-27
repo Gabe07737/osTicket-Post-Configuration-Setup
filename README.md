@@ -119,8 +119,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   John Doe:
 </p>
 <p>
-  <img src="https://i.imgur.com/NcCP0v9.png" height="75%" width="100%" alt="agent two"/>
-  <img src="https://i.imgur.com/aKTJ01A.png" height="75%" width="100%" alt="agent two access"/>
+  <img src="https://github.com/user-attachments/assets/c1680ad9-8c9d-419e-9cd1-691b9a6103cd" height="75%" width="100%" alt="agent two"/>
+  <img src="https://github.com/user-attachments/assets/12932b5b-34ad-49a7-9e66-ec59b1edd20e" height="75%" width="100%" alt="agent two access"/>
 </p>
 <h3 align="center">Configure Users (customers)</h3>
 <br />
@@ -128,11 +128,13 @@ This tutorial outlines the post-install configuration of the open-source help de
   Admin Panel -> Users -> Add New.
 </p>
 <p>
-  Ken User:
+  Karen User:
 </p>
-  <img src="https://i.imgur.com/vbPd3uK.png" height="75%" width="100%" alt="user access"/>
+  <img src="https://github.com/user-attachments/assets/bb48a83a-0e90-476d-b64b-155db3ca8c26" height="75%" width="100%" alt="user access"/>
+  <img src="https://github.com/user-attachments/assets/bb6166f2-f791-4c52-8c5b-7bec64bf5658" height="75%" width="100%" alt="user access"/>
+  <img src="https://github.com/user-attachments/assets/fb2459da-d5ae-458d-9e16-40d80f598c32" height="75%" width="100%" alt="user access"/>
 <p>
-  Repeat the same above for Karen User.
+  Repeat the same above for Ken User.
 </p>
 <br />
 <br />
@@ -151,9 +153,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   Sev-C (8 hours, business hours):
 </p>
 <p>
-  <img src="https://i.imgur.com/6AAF3Ju.png" height="75%" width="100%" alt="sev one"/>
-  <img src="https://i.imgur.com/izcD74X.png" height="75%" width="100%" alt="sev two"/>
-  <img src="https://i.imgur.com/xKzdp7w.png" height="75%" width="100%" alt="sev three"/>
+  <img src="https://github.com/user-attachments/assets/5e3a6d6c-1db8-40c3-ada8-04a9761ee25e" height="75%" width="100%" alt="sev one"/>
+  <img src="https://github.com/user-attachments/assets/4cab1ead-2c0a-4086-939c-136b9d36aa45" height="75%" width="100%" alt="sev two"/>
+  <img src="https://github.com/user-attachments/assets/77456fa2-1cf2-4a58-9357-4841fd6b9490" height="75%" width="100%" alt="sev three"/>
+  <img src="https://github.com/user-attachments/assets/516c8ddf-ae57-4d98-a6f2-2b7ffd6d99a8" height="75%" width="100%" alt="sev one"/>
+  <img src="https://github.com/user-attachments/assets/2a2695a0-eb99-4711-8abd-f6e49bbdcd9b" height="75%" width="100%" alt="sev one"/>
 </p>
 <br />
 <br />
