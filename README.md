@@ -41,7 +41,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   Supreme Admin:
 </p>
 <p>
-  <img src="https://github.com/user-attachments/assets/889c4a85-e08a-4002-9de9-f3fbfa7871c4" height="75%" width="100%" alt="Definitions"/>
+  <img src="https://github.com/user-attachments/assets/91f35ba9-1afd-484f-8df0-142c9d85ae29" height="75%" width="100%" alt="Definitions"/>
   <img src="https://github.com/user-attachments/assets/31b2f561-be08-4193-b27e-a44031aa67bd" height="75%" width="100%" alt="Permissions"/>
   <img src="https://github.com/user-attachments/assets/b4077bf5-b3f3-4408-9af6-669215c3f048" height="75%" width="100%" alt="More Permissions"/>
   <img src="https://github.com/user-attachments/assets/b459b965-9668-4e89-b6d5-1dd7d8700566" height="75%" width="100%" alt="Even More Permissions"/>
